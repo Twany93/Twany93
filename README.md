@@ -1,13 +1,19 @@
 ### Escrevendo código tomando café, ouvindo música e pedindo comida.
-<div align="center">
-  <img alt="logo do Starbucks" height="35" width="90" src="https://img.shields.io/badge/starbucks-007042?style=for-the-badge&logo=starbucks&logoColor=white"> <img alt="logo do spotify" height="35" width="80" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> <img alt="logo do iFood" height="35" width="80" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white">
+<div align="left">
+<h1>Um pouco sobre mim:</h1>
+🌎 | São Bernardo do Campo - SP 🇧🇷</br>
+👩🏽 | Pronome ela/dela</br>
+💻 | Desenvolvedora Web Java Jr - Generation 👩🏽‍💻</br>
+⚽ | "Uma jogada pode mudar o mundo" </br>
+🤖 | Mulheres na Tecnologia 💥 🖱️ </br>
+📚 | Cursando Bacharelado de Ciências e Tecnologia - UFABC 👩‍🎓 📑 </br>
 </div>
   
 ---
 
 <div align="center">
-  <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasabnovato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasabnovato&layout=compact&langs_count=7&theme=dracula">
+  <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Twany93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twany93&layout=compact&langs_count=7&theme=dracula">
 </div>
   
 ---
@@ -43,21 +49,11 @@
 
 ---
 
-#### Registrando a trajetória   
-<div align="center">  
-  <a href="https://linktree.com/douglasabnovato" target="_blank"><img src="https://img.shields.io/badge/-linktree-green?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href="https://douglasabnovato.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglasabnovato" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
----
-
 #### Redes Sociais   
 <div align="center">  
-  <a href="https://instagram.com/douglasabnovato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/douglasabnovato#8625" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/douglasabnovato" target="_blank"><img src="https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:douglasabnovato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/twany-teixeira" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/Twany#1136" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:twany.rocha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 ---
@@ -65,6 +61,6 @@
 #### Nessa empolgação 
 <div> 
   
-  ![Snake animation](https://github.com/douglasabnovato/douglasabnovato/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Twany93/Twany93/blob/output/github-contribution-grid-snake.svg)
  
 </div>
