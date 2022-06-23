@@ -5,7 +5,7 @@
 👩🏽 | Pronome ela/dela</br>
 💻 | Desenvolvedora Web Java Jr - Generation 👩🏽‍💻</br>
 ⚽ | "Uma jogada pode mudar o mundo" </br>
-🤖 | Mulheres na Tecnologia 💥 🖱️ </br>
+🤖 | Mulheres na Tecnologia 💥 💥 🖱️ </br>
 📚 | Cursando Bacharelado em Ciências e Tecnologia - UFABC 👩‍🎓 📑 </br>
 </div>
   
