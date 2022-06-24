@@ -60,7 +60,7 @@
 ---
 
 #### Nessa empolgação 
-
+<div>
   
   ![Snake animation](https://github.com/Twany93/Twany93/blob/output/github-contribution-grid-snake.svg)
  
