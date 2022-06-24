@@ -41,10 +41,10 @@
   
   <div align="center" style="display: inline_block"> 
     <img align="center" alt="logo do MySQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-MongoDB" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-SQLite" height="30" width="75" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-Netlify" height="30" width="75" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-Heroku" height="30" width="75" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="Twany93-MongoDB" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+    <img align="center" alt="Twany93-SQLite" height="30" width="75" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
+    <img align="center" alt="Twany93-Netlify" height="30" width="75" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
+    <img align="center" alt="Twany93-Heroku" height="30" width="75" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </div>
 </div>
 
