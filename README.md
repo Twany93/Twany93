@@ -13,8 +13,8 @@
 
 <div align="center">
    <a href="https://github.com/Twany93">
-  <img alt="quadro de estatísticas desse perfil"  height="160em" src="https://github-readme-stats.vercel.app/api?username=Twany93&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img alt="quadro de linguagens mais usadas desse perfil"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twany93&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="quadro de estatísticas desse perfil"  height="160em" src="https://github-readme-stats.vercel.app/api?username=Twany93&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img alt="quadro de linguagens mais usadas desse perfil"  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twany93&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ---
