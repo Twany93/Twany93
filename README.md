@@ -3,7 +3,7 @@
 <h1>Um pouco sobre mim:</h1>
 🌎 | São Bernardo do Campo - SP 🇧🇷</br>
 👩🏽 | Pronome ela/dela</br>
-💻 | Desenvolvedora Web Java Jr - Generation 👩🏽‍💻</br>
+💻 | Desenvolvedora Web Java Jr. - Generation 👩🏽‍💻</br>
 ⚽ | "Uma jogada pode mudar o mundo" </br>
 🤖 | Mulheres na Tecnologia 💥 🖱️ </br>
 📚 | Cursando Bacharelado em Ciências e Tecnologia - UFABC 👩‍🎓 📑 </br>
